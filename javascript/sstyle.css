@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.countainer{
+    /* height: 100vh; */
+    width: 99vw;
+    background-color: pink;
+    padding-top: 2rem;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    padding: 2rem;
+   
+    
+}
+img{
+    width: 22vw;
+    align-self: center;
+}
